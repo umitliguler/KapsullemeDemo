@@ -66,7 +66,7 @@ class dortgen
         }
    }
  ```
-**_Örnek-2:Şimdi bu konuyla alakalı bir başka örnek yapalım. Bu örneğimizde aynı zamanda Hata fırlatma ve Hata yakalama işleminin nasıl yapıldığıyla ilgili bir örnekte verelim.
+**_Örnek-2:  Şimdi bu konuyla alakalı bir başka örnek yapalım. Bu örneğimizde aynı zamanda Hata fırlatma ve Hata yakalama işleminin nasıl yapıldığıyla ilgili bir örnekte verelim.
 Örneğimizde “Makina” isimli bir sınıf oluşturacağız. Bu sınıfın “isi” isimli bir “properties” i bulunmakta. “isi” özelliğini kapsülleyeceğiz. Aynı zamanda ısı 0’dan küçük ise veya 100′ den büyükse hata fırlatarak ana programda bu hatanın yakalanmasının nasıl gerçekleştiğini göreceğiz_**
 
 **_Öncelikle sınıfımızı aşağıdaki şekilde oluşturuyoruz_**
