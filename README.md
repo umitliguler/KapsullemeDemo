@@ -1,13 +1,13 @@
 # KapsullemeDemo
 
-**_Bilindiği gibi C# nesneye dayalı bir programlama dilidir. Kapsülleme (Encapsulation) kavramı bir nesnenin bazı özellik ve işlevlerini başka sınıflardan ve nesnelerden saklamaktır. Private erişim belirteci sayesinde bu şekilde tanımlanan bir field’ i başka sınıflardan gizlemiş oluruz. Ayrıca bu field başka sınıflarda kullanılamaz.
+**_Bilindiği gibi C# nesneye dayalı bir programlama dilidir. Kapsülleme (Encapsulation) kavramı bir nesnenin bazı özellik ve işlevlerini başka sınıflardan ve nesnelerden saklamaktır. Private erişim belirteci sayesinde bu şekilde tanımlanan bir field’ i başka sınıflardan gizlemiş oluruz. Ayrıca bu field başka sınıflarda kullanılamaz._**
 
-Kapsülleme (Encapsulation) sayesinde nesneler bilinçsiz kullanımdan korunmuş olur. Fakat bazı durumlarda private field’ lara erişmemiz ve özelliklerini kullanmamız gerekebilir. Bu durumda Property kavramı devreye girer. Property bir field’ in değerini geri döndürmeye (Get) ve değerini ayarlamaya (Set) olanak sağlar.
+** _Kapsülleme (Encapsulation) sayesinde nesneler bilinçsiz kullanımdan korunmuş olur. Fakat bazı durumlarda private field’ lara erişmemiz ve özelliklerini kullanmamız gerekebilir. Bu durumda Property kavramı devreye girer. Property bir field’ in değerini geri döndürmeye (Get) ve değerini ayarlamaya (Set) olanak sağlar._ **
 
-Aşağıdaki Örnek Uygulamada Class’ ta kapsülleme kullanılarak dikdörtgenin alan hesabı yapılmıştır. Dikdörtgen kenarlarına negatif bir değer verilirse sıfırlanması sağlanmıştır.
+** _Aşağıdaki Örnek Uygulamada Class’ ta kapsülleme kullanılarak dikdörtgenin alan hesabı yapılmıştır. Dikdörtgen kenarlarına negatif bir değer verilirse sıfırlanması sağlanmıştır._ **
 
-Class ta yer alan kodlar
-_**
+** _Class ta yer alan kodlar_ **
+
 ```C#
 class dortgen
     {
@@ -48,7 +48,7 @@ class dortgen
         }
  
     }
-    ```
+  ```
 **_Program kısmında yer alan kodlar_**
 
 ```C#
@@ -64,5 +64,5 @@ class dortgen
             Console.WriteLine(d.alan());
             Console.ReadKey();
         }
-    }
-    ```
+   }
+ ```
