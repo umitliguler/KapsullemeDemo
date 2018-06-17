@@ -1,0 +1,6 @@
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\KapsullemeDemo\KapsullemeDemo\bin\Debug\KapsullemeDemo.exe.config
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\KapsullemeDemo\KapsullemeDemo\bin\Debug\KapsullemeDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\KapsullemeDemo\KapsullemeDemo\bin\Debug\KapsullemeDemo.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\KapsullemeDemo\KapsullemeDemo\obj\Debug\KapsullemeDemo.csprojResolveAssemblyReference.cache
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\KapsullemeDemo\KapsullemeDemo\obj\Debug\KapsullemeDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\KapsullemeDemo\KapsullemeDemo\obj\Debug\KapsullemeDemo.pdb
